@@ -1,0 +1,19 @@
+{
+    "name": "nelsonkats/pdfviewer",
+    "description": "Laravel pdf viewer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nelson K",
+            "email": "katalenelson@gmail.com"
+        }
+    ],
+    "autoload":{
+    	"psr-4":{
+	"NelsonKats\\":"packages/nelsonkats/pdfviewer/src"
+	}
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
